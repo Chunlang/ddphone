@@ -1,1 +1,1 @@
-# ddphone
+# about dangdang mobile 
